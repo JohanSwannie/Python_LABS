@@ -12,11 +12,10 @@
 # User enter input INT for each of the 3 cases and program print output of staircases for case 1 & 2 and a Christmas Tree for case 3
 #
 # Example 4 - "jumping_platforms"
-# User enter amount of platforms + 0 for each safe platform and 1 for each unsafe platform - only one or 2 jumps allowed a a time. The
-# program will work out the total amount of safe jumps to the last platform, which is always a safe platform
+# User enter amount of platforms + 0 for each safe platform and 1 for each unsafe platform - only one or 2 jumps allowed a at a time. The  # program will work out the total amount of safe jumps to the last platform, which is always a safe platform
 #
 # Example 5 - 'inheritance"
-# User input student name, surname & ID on same line. The input the amount of scores - and then the actual scores. The program will 
-# work out the average score of the student and return the details of the student together with the symbol achieved 
+# User input student name, surname & ID on same line. The input the amount of scores - and then the actual scores. The program will work 
+# out the average score of the student and return the details of the student together with the symbol achieved 
 
 
