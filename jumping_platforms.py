@@ -1,6 +1,6 @@
 # Jumping Platforms - 1st input = how many Platforms - 2nd input 0 for each save Platform & 1 for each unsafe Platform
 # Jumping the Platforms to the last safe Platform can only happen in either 1 or 2 jumps
-# The following algorith will work out the amount of safe jumps to get to the last safe Platform - last Platform always a safe one
+# The following algorithm will work out the amount of safe jumps to get to the last safe Platform - last Platform always a safe one
 
 def jumpingPlatforms(c):
     c.append(2)
