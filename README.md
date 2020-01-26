@@ -29,3 +29,6 @@
 # 
 # Example 9 - 'average_calculations'
 # User input any amount of positive numbers, negative numbers and zeros - program will the return the average for each case of the overall # amount of numbers entered
+#
+# Example 10 - 'useful_methods_functions'
+# Some useful methods in Python - 1) Filtering 2) Zipping 3) Ordinal Numbers 4) Mapping 5) Lambda expressions 6) Reduce Function
