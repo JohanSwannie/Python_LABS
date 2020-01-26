@@ -124,3 +124,9 @@ product = 1
 for x in numbers:
     product = product * x
 print(product)
+
+
+from functools import reduce
+def do_sum(x1, x2):
+    return x1 + x2
+print(reduce(do_sum, [1, 2, 3, 4, 8]))
