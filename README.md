@@ -8,6 +8,7 @@
 # Example 2 - "strings_in_action"
 # All actions described in the form of comments in the program
 #
-# Example 3 - 
+# Example 3 - "staircases_plus_christmastree"
+# User enter input INT for each of the 3 cases and program print output of staircases for case 1 & 2 and a Christmas Tree for case 3
 
 
