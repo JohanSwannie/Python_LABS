@@ -1,4 +1,5 @@
-#  Inheritance
+# Inheritance - User input student name, surname and ID on 1 line - The input amount fo scores for student and then input different 
+# scores for student on one line. The progrfam will work out the average and print out the students details + symbol achieved
 
 class Person:
     def __init__(self, firstName, lastName, idNumber):
