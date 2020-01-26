@@ -18,6 +18,9 @@
 # User input student name, surname & ID on same line. The input the amount of scores - and then the actual scores.
 # The program will work out the average score of the student and return the details of the student together with the symbol achieved 
 #
+# Example 6 - 'summing'
+# USe the sum method in python to perform all kinds of summing
+#
 # Example 7 - 'date_time_general'
 # General Date Time functions to manipulate date and time 
 #
