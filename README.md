@@ -32,3 +32,6 @@
 #
 # Example 10 - 'useful_methods_functions'
 # Some useful methods in Python - 1) Filtering 2) Zipping 3) Ordinal Numbers 4) Mapping 5) Lambda expressions 6) Reduce Function
+#
+# Example 11 - 'more_useful_functions'
+# More useful functions in Python - 1) Sorted 2) Enumerate 3) Reversed 4) Range 5) Min & Max 6) Chr 7) Any & All
