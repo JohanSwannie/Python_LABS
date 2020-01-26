@@ -25,5 +25,4 @@
 # User input seconds within 1 days range and program return the human readable time in format HH:MM:SS (hours, minutes + seconds)
 # 
 # Example 9 - 'average_calculations'
-# User input any amount of positive numbers, negative numbers and zeros - program will the return the average for each case of the overall 
-# amount of numbers entered
+# User input any amount of positive numbers, negative numbers and zeros - program will the return the average for each case of the overall # amount of numbers entered
