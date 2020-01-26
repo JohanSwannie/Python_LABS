@@ -21,4 +21,6 @@
 # Example 7 - 'date_time_general'
 # General Date Time functions to manipulate date and time 
 #
+# Example 8 - 'human_readable_time'
+# User input seconds within 1 days range and program return the human readable time in format HH:MM:SS (hours, minutes + seconds)
 
