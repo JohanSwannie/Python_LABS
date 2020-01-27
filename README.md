@@ -41,5 +41,7 @@
 #
 # Example 13 - 'tuples_plus_sets_methods'
 # Examples of methods in tuples & sets
-#
+# 
+# Example 14 - 'random'
+# A few examples to show how the random module can be used to perform functions etc etc...
 
