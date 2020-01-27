@@ -35,3 +35,6 @@
 #
 # Example 11 - 'more_useful_functions'
 # More useful functions in Python - 1) Sorted 2) Enumerate 3) Reversed 4) Range 5) Min & Max 6) Chr 7) Any & All
+#
+# Example 12 - 'list_methods'
+# Examples of all methods in lists as well as a touch on list comprehensions
