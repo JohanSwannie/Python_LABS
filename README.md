@@ -38,3 +38,8 @@
 #
 # Example 12 - 'list_methods'
 # Examples of all methods in lists as well as a touch on list comprehensions
+#
+# Example 13 - 'tuples_plus_sets_methods'
+# Examples of methods in tuples & sets
+#
+
