@@ -44,4 +44,8 @@
 # 
 # Example 14 - 'random'
 # A few examples to show how the random module can be used to perform functions etc etc...
+#
+# Example 15 - 'lambda_functions_calculator'
+# Example of how lambda functions can be used to perform all sorts of calculation operations
+
 
