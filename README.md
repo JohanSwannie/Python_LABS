@@ -47,5 +47,8 @@
 #
 # Example 15 - 'lambda_functions_calculator'
 # Example of how lambda functions can be used to perform all sorts of calculation operations
+#
+# Example 16 - 'binaries'
+# Examples of how to convert binary to character decimals, integer decimals & vice versa + reading Binary files
 
 
