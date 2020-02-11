@@ -53,5 +53,8 @@
 #
 # Example 17 - 'all_sorts'
 # Example of several methods, functions etc in Python
+#
+# Example 18
+# Examples of general exercises in Python 
 
 
