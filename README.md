@@ -50,5 +50,8 @@
 #
 # Example 16 - 'binaries'
 # Examples of how to convert binary to character decimals, integer decimals & vice versa + reading Binary files
+#
+# Example 17 - 'all_sorts'
+# Example of several methods, functions etc in Python
 
 
