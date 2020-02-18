@@ -56,5 +56,8 @@
 #
 # Example 18
 # Examples of general exercises in Python 
+#
+# Example 19
+# Examples of Iterators and Generators
 
 
